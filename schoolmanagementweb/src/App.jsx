@@ -3,7 +3,7 @@ import React from 'react'
 const App = () => {
   return (
     <div>
-      <p>School Management</p>
+      <h1 className='text-3xl font-bold underline'>School Management Web App</h1>
     </div>
   )
 }
